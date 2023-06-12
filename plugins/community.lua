@@ -6,4 +6,8 @@ return {
 
   -- { import = "astrocommunity.colorscheme.catppuccin" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
+  { import = "astrocommunity.colorscheme.tokyonight-nvim" },
+  { import = "astrocommunity.pack.rust" },
+  { import = "astrocommunity.pack.go" },
+  { import = "astrocommunity.pack.markdown" },
 }
